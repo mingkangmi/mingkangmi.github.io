@@ -17,7 +17,9 @@ You can find my CV here: [MingKang Mi's Curriculum Vitae](../assets/Curriculum_V
 
 Education
 ======
-**B.Eng. in Artificial Intelligence (Electronic Information), 2022-2026**
+
+**B.Eng. in Artificial Intelligence (Electronic Information), 2022-Persent**
+
 ChenDu University of Technology
 
 
