@@ -10,7 +10,7 @@ redirect_from:
 I am a senior student from [ChenDu University of Technology](https://www.cdut.edu.cn/), majoring in Artificial Intelligence
 
 
-My research interest includes machine learning, edge AI systems, and tiny machine learning，neural video streaming.
+My research interest includes machine learning, edge AI systems, tiny machine learning，and neural video streaming.
 
 
 You can find my CV here: [MingKang Mi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
