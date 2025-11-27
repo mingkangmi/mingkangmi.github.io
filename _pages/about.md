@@ -20,7 +20,7 @@ Education
 
 **B.Eng. in Artificial Intelligence (Electronic Information), 2022-Persent**
 
-ChenDu University of Technology
+ChengDu University of Technology
 
 
 
