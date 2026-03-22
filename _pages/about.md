@@ -19,6 +19,7 @@ Education
 ======
 
 **B.Eng. Artificial Intelligence (Electronic and Information Engineering), CDUT,2022-2026**
+
 **M.E., Computer Science , Shenzhen University, 2026—2029.**
 
 ChengDu University of Technology
