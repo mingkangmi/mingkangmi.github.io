@@ -10,9 +10,7 @@ redirect_from:
 I am a senior student from [ChenDu University of Technology](https://www.cdut.edu.cn/), majoring in Artificial Intelligence
 
 
-My research interest includes machine learning, edge AI systems, tiny machine learning，and neural video streaming.
-
-I am very fortunate to be advised by Professor Qihua Zhou of the PElLab at the College of Computer Science and Software Engineering, Shenzhen University.
+My research interest includes machine learning, edge AI systems, reinforcement learning, and Dexterous hand control 
 
 
 Education
